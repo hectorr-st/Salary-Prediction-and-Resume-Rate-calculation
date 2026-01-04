@@ -118,6 +118,6 @@ It brings together powerful regression algorithms, ensemble learning, and NLP te
 
 ## 🙋‍♂️ Author
 
-**Bhanu Prakash Achini**
+**Suzuki Taro**
 📧 [dr.smart710@gmail.com](mailto:[dr.smart710@gmail.com)
 ---
